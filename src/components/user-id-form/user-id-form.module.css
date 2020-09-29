@@ -1,0 +1,11 @@
+.user-form {
+  margin: 2%;
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+  justify-content: center;
+}
+.button-area {
+  margin: 2%;
+  width: 100px;
+}
